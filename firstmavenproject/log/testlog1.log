@@ -1,0 +1,88 @@
+2019-05-27 16:32:26,710 [main] INFO com.inetbanking.testCases.BaseClass - url opned
+2019-05-27 16:32:26,929 [main] INFO com.inetbanking.testCases.BaseClass - Entered Username
+2019-05-27 16:32:27,049 [main] INFO com.inetbanking.testCases.BaseClass - Entered Password
+2019-05-27 16:32:29,013 [main] INFO com.inetbanking.testCases.BaseClass - Clicked Submit
+2019-05-27 16:32:29,026 [main] INFO com.inetbanking.testCases.BaseClass - Logged in Successfully
+2019-05-27 16:32:40,336 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-27 16:32:40,473 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-27 16:32:42,352 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-27 16:32:47,796 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on New Customer
+2019-05-27 16:32:49,149 [main] INFO com.inetbanking.testCases.BaseClass - Entered required customer details
+2019-05-27 16:32:52,539 [main] INFO com.inetbanking.testCases.BaseClass - Submitted customer information
+2019-05-27 16:32:52,540 [main] INFO com.inetbanking.testCases.BaseClass - Validation Started...........
+2019-05-27 16:32:52,554 [main] INFO com.inetbanking.testCases.BaseClass - TCs passed...........
+2019-05-28 10:22:46,270 [main] INFO com.inetbanking.testCases.BaseClass - url opned
+2019-05-28 10:22:46,487 [main] INFO com.inetbanking.testCases.BaseClass - Entered Username
+2019-05-28 10:22:46,589 [main] INFO com.inetbanking.testCases.BaseClass - Entered Password
+2019-05-28 10:22:48,251 [main] INFO com.inetbanking.testCases.BaseClass - Clicked Submit
+2019-05-28 10:22:48,267 [main] INFO com.inetbanking.testCases.BaseClass - Logged in Successfully
+2019-05-28 10:23:11,150 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 10:23:11,271 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 10:23:13,060 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 10:23:17,989 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on New Customer
+2019-05-28 10:23:19,402 [main] INFO com.inetbanking.testCases.BaseClass - Entered required customer details
+2019-05-28 10:23:22,311 [main] INFO com.inetbanking.testCases.BaseClass - Submitted customer information
+2019-05-28 10:23:22,312 [main] INFO com.inetbanking.testCases.BaseClass - Validation Started...........
+2019-05-28 10:23:22,329 [main] INFO com.inetbanking.testCases.BaseClass - TCs passed...........
+2019-05-28 10:32:35,923 [main] INFO com.inetbanking.testCases.BaseClass - url opned
+2019-05-28 12:31:33,848 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 12:31:33,960 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 12:31:36,643 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 12:31:38,599 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 12:31:38,734 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 12:31:40,677 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
+2019-05-28 12:31:40,708 [main] INFO com.inetbanking.testCases.BaseClass - Editing customer details ................
+2019-05-28 12:35:34,158 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 12:35:34,265 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 12:35:38,300 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 12:35:40,502 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 12:35:40,619 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 12:35:42,445 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
+2019-05-28 12:35:42,485 [main] INFO com.inetbanking.testCases.BaseClass - Editing customer details ................
+2019-05-28 12:35:44,639 [main] INFO com.inetbanking.testCases.BaseClass - Customer details updated Successfully!!!...........
+2019-05-28 12:38:21,930 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 12:38:22,051 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 12:38:24,670 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 12:38:26,668 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 12:38:26,770 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 12:38:27,288 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
+2019-05-28 12:41:51,921 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 12:41:52,025 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 12:41:55,189 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 12:41:57,261 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 12:41:57,397 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 12:41:57,856 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
+2019-05-28 12:45:17,687 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 12:45:17,788 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 12:45:20,703 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 12:45:22,767 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 12:45:22,855 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 12:45:25,845 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
+2019-05-28 12:45:25,886 [main] INFO com.inetbanking.testCases.BaseClass - Editing customer details ................
+2019-05-28 12:45:28,588 [main] INFO com.inetbanking.testCases.BaseClass - Customer details updated Successfully!!!...........
+2019-05-28 12:56:34,788 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 12:56:34,895 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 12:56:37,344 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 12:56:39,982 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 12:56:40,110 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 12:56:42,845 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
+2019-05-28 12:56:42,886 [main] INFO com.inetbanking.testCases.BaseClass - Editing customer details ................
+2019-05-28 12:56:45,127 [main] INFO com.inetbanking.testCases.BaseClass - Customer details updated Successfully!!!...........
+2019-05-28 12:57:51,182 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 12:57:51,296 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 12:57:53,634 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 12:57:56,530 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 12:57:56,645 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 12:57:57,136 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
+2019-05-28 15:24:44,175 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 15:24:44,285 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 15:24:46,032 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 15:24:47,674 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 15:24:47,777 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 15:24:48,187 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
+2019-05-28 15:34:46,720 [main] INFO com.inetbanking.testCases.BaseClass - Entered username
+2019-05-28 15:34:46,833 [main] INFO com.inetbanking.testCases.BaseClass - Entered password
+2019-05-28 15:34:49,341 [main] INFO com.inetbanking.testCases.BaseClass - Logged in successfully
+2019-05-28 15:34:51,267 [main] INFO com.inetbanking.testCases.BaseClass - Clicked in Edit Customer
+2019-05-28 15:34:51,365 [main] INFO com.inetbanking.testCases.BaseClass - Entered CustomerID
+2019-05-28 15:34:51,847 [main] INFO com.inetbanking.testCases.BaseClass - Clicked on Submit
